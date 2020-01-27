@@ -1,0 +1,1 @@
+For this lab, you won't actually give us any deliverables. This lab you're working locally, and next lab you'll push your repository online. For grading, this is just an attendance and participation lab.
